@@ -1,16 +1,6 @@
 {
-	"short_name": "Portfolio",
-	"name": "Ankush's Portfolio",
-	"icons": [
-		{
-			"src": "android-chrome-512x512.png",
-			"sizes": "256x256",
-			"type": "image/png"
-		}
-	],
-	"start_url": "/?utm_source=homescreen",
-	"display": "standalone",
-	"orientation": "portrait",
-	"theme_color": "#ff5d5d",
-	"background_color": "#ff5d5d"
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "browser",
+  "start_url": "."
 }
